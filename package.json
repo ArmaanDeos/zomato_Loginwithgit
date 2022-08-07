@@ -1,0 +1,19 @@
+{
+  "name": "loginwithgithub",
+  "version": "1.0.0",
+  "description": "Login with github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "author": "armaanDeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2",
+    "superagent": "^8.0.0"
+  }
+}
